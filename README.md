@@ -6,7 +6,7 @@
 
 <h2 align="center">🔥 About Me</h2>
 
-<p align="center" style="font-size: 18px;">
+<p style="font-size: 18px;">
   🔹 I build responsive websites, landing pages, and SPA<br>
   🔹 I work with HTML, CSS, JavaScript, TypeScript, React<br>
   🔹 I have experience in hackathons (Project Manager & Frontend Developer)<br>
@@ -15,7 +15,7 @@
 
 <h2 align="center">🎯 I am learning</h2>
 
-<p align="center" style="font-size: 18px;">
+<p style="font-size: 18px;">
   🌀 GSAP & Framer Motion (for animations)<br>
   🎮 Three.js (for 3D graphics)
 </p>
@@ -45,12 +45,12 @@
 
 <p align="center">
   <a href="https://t.me/shamuratow" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="50" height="50" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:ismaiismaisham@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Email">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/shamrtow.77" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
